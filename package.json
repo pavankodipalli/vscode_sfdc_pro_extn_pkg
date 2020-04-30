@@ -13,6 +13,10 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/pavankodipalli/vscode_sfdc_pro_extn_pkg.git"
+    },
     "extensionPack": [ 
         "publisher.extensionName",
         "salesforce.salesforcedx-vscode",
