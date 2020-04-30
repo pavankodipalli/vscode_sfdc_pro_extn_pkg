@@ -1,0 +1,39 @@
+{
+    "name": "sfdc-pro-essential-package",
+    "displayName": "sfdc_pro_essential_package",
+    "publisher": "pavankodipalli",
+    "description": "salesforce development related extensions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "author": {
+        "name": "Pavan Kumar Kodipalli"
+      },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName",
+        "salesforce.salesforcedx-vscode",
+        "salesforce.codey-midnight",
+        "salesforce.salesforcedx-vscode-core",
+        "salesforce.salesforcedx-vscode-apex",
+        "salesforce.salesforcedx-vscode-visualforce",
+        "salesforce.salesforcedx-vscode-lightning",
+        "salesforce.salesforcedx-vscode-apex-debugger",
+
+        "salesforce.salesforcedx-vscode-apex-replay-debugger",
+        "salesforce.salesforcedx-vscode-lwc",
+        "salesforce.salesforce-vscode-slds",
+        "salesforce.analyticsdx-vscode-core",
+        "salesforce.analyticsdx-vscode-templates",
+        "salesforce.analyticsdx-vscode",
+        "VignaeshRamA.sfdx-package-xml-generator",
+        "alefragnani.Bookmarks",
+        "aaron-bond.better-comments",
+        "CoenraadS.bracket-pair-colorizer",
+        "formulahendry.auto-r ename-tag",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
