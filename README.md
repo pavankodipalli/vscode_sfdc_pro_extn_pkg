@@ -2,7 +2,7 @@
 
 This exteion pack lists all the necessary extensions necessary for the salesforce developer
 
-## [VSCode Extensions by Salesforce
+## VSCode Extensions by Salesforce
 
 * [Salesforce CLI Integration](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-core)
    Salesforce CLI Integration for Visual Studio Code 
@@ -29,7 +29,7 @@ This exteion pack lists all the necessary extensions necessary for the salesforc
 
 ## Other Utility extensions 
 
-* [Salesforce Package.xml Generator Extension for VS Code] (https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
+* [Salesforce Package.xml Generator Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
  Salesforce Package.xml Generator Extension for VS Code
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
