@@ -19,27 +19,38 @@ This exteion pack lists all the necessary extensions necessary for the salesforc
     Lightning Web Components for Visual Studio Code
 
 
-## VSCode Themmes by Salesforce
 
-* [Codey Midnight](https://marketplace.visualstudio.com/items?itemName=salesforce.codey-midnight)
-    Codey Midnight Theme for VS Code
-* [Codey High Noon](https://marketplace.visualstudio.com/items?itemName=salesforce.codey-high-noon)
-    Codey High Noon Theme for VS Code
-
-
-## Other Utility extensions 
+## Other Utility extensions for Salesforce
 
 * [Salesforce Package.xml Generator Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
  Salesforce Package.xml Generator Extension for VS Code
+
+
+## Integration Extensions
+
+
+* [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+ Useful for testing the Salesforce API and any external REST API
+
+## Repository
+
+* [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+## Extensions for easy coding
+
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
         
-        
 ## Nice to have extensions
 
 * [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
+## Themes by Saelsforce
 
-**Enjoy!**
+* [Codey Midnight](https://marketplace.visualstudio.com/items?itemName=salesforce.codey-midnight)
+    Codey Midnight Theme for VS Code
+* [Codey High Noon](https://marketplace.visualstudio.com/items?itemName=salesforce.codey-high-noon)
+    Codey High Noon Theme for VS Code

@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "sfdc-pro-essentail-package" extension pack will be documented in this file.
+All notable changes to this extension pack.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Inital Release]
 
-- Initial release
+- Extensions by salesforce
+- Other userful extensions for Salesforce
+- Other useful extensions for the general development activities
