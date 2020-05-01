@@ -37,7 +37,7 @@ This exteion pack lists all the necessary extensions necessary for the salesforc
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
         
         
-* Nice to have extensions
+## Nice to have extensions
 
 * [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
