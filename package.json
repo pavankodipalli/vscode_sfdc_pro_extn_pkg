@@ -3,7 +3,7 @@
     "displayName": "sfdc_pro_essential_package",
     "publisher": "pavankodipalli",
     "description": "salesforce development related extensions",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "engines": {
     "vscode": "^1.44.0"
     },
